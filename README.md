@@ -32,17 +32,17 @@ Me interesa entender el porqué detrás de cada decisión de interfaz, no solo c
 
 ## Proyectos
 
-### 🧗 [Bloque — Landing page de gimnasio](https://claude.ai/artifact/TjFe2NC9bifn85V7DcXaxN)
+### 🧗 [Bloque — Landing page de gimnasio]0(https://bloque-landing-page-de-gimnasio-de.vercel.app/)
 Landing responsiva con menú móvil funcional, planes de precios y formulario con validación en tiempo real por campo.
-`HTML` `CSS` `JavaScript` — [Ver demo](https://claude.ai/artifact/TjFe2NC9bifn85V7DcXaxN) · [Código]([#](https://github.com/Nsaavedra0523/Bloque-Landing-Page-de-Gimnasio-de-Escalada/tree/main))
+`HTML` `CSS` `JavaScript` — [Ver demo](https://bloque-landing-page-de-gimnasio-de.vercel.app/) · [Código]([https://github.com/Nsaavedra0523/Bloque-Landing-Page-de-Gimnasio-de-Escalada/tree/main])
 
-### 🌤️ [App del clima](https://claude.ai/artifact/5Ue7mEByvFVmZWpwT4QB9c)
+### 🌤️ [App del clima](https://app-del-clima-beta.vercel.app/)
 Consume la API de OpenWeatherMap para mostrar el clima actual de cualquier ciudad, con manejo de carga, error y datos de respaldo.
-`JavaScript` `API REST` `CSS` — [Ver demo](https://claude.ai/artifact/5Ue7mEByvFVmZWpwT4QB9c) · [Código](https://github.com/Nsaavedra0523/App-del-Clima)
+`JavaScript` `API REST` `CSS` — [Ver demo](https://app-del-clima-beta.vercel.app/) · [Código](https://github.com/Nsaavedra0523/App-del-Clima)
 
-### ✅ [Lista de tareas](https://claude.ai/artifact/UWirjdMUCf75aFbyyKaeg9)
+### ✅ [Lista de tareas](https://lista-de-tareas-puce-kappa.vercel.app/)
 To-do list con persistencia en localStorage, filtros por estado y edición en línea con doble clic.
-`JavaScript` `localStorage` `CSS` — [Ver demo](https://claude.ai/artifact/UWirjdMUCf75aFbyyKaeg9) · [Código](https://github.com/Nsaavedra0523/Lista-de-Tareas/tree/main)
+`JavaScript` `localStorage` `CSS` — [Ver demo](https://lista-de-tareas-puce-kappa.vercel.app/) · [Código](https://github.com/Nsaavedra0523/Lista-de-Tareas/tree/main)
 
 ## Contacto
 
