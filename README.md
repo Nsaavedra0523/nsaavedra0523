@@ -34,7 +34,7 @@ Me interesa entender el porqué detrás de cada decisión de interfaz, no solo c
 
 ### 🧗 [Bloque — Landing page de gimnasio]0(https://bloque-landing-page-de-gimnasio-de.vercel.app/)
 Landing responsiva con menú móvil funcional, planes de precios y formulario con validación en tiempo real por campo.
-`HTML` `CSS` `JavaScript` — [Ver demo](https://bloque-landing-page-de-gimnasio-de.vercel.app/) · [Código]([https://github.com/Nsaavedra0523/Bloque-Landing-Page-de-Gimnasio-de-Escalada/tree/main])
+`HTML` `CSS` `JavaScript` — [Ver demo](https://bloque-landing-page-de-gimnasio-de.vercel.app/) · [Código](https://github.com/Nsaavedra0523/Bloque-Landing-Page-de-Gimnasio-de-Escalada/tree/main)
 
 ### 🌤️ [App del clima](https://app-del-clima-beta.vercel.app/)
 Consume la API de OpenWeatherMap para mostrar el clima actual de cualquier ciudad, con manejo de carga, error y datos de respaldo.
