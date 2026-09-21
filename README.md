@@ -6,7 +6,7 @@
 Construyo interfaces claras, rápidas y bien pensadas con HTML, CSS y JavaScript.
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-visitar-5B3DF5?style=flat-square)](#)
-[![Email](https://img.shields.io/badge/Email-contactar-1F6F78?style=flat-square)](https://mail.google.com/mail/u/0/#inbox)
+[![Email](https://img.shields.io/badge/Email-contactar-1F6F78?style=flat-square)](nsaavedra0523@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-santiago-saavedra-arciniegas/)
 
 </div>
