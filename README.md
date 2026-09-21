@@ -32,7 +32,7 @@ Me interesa entender el porqué detrás de cada decisión de interfaz, no solo c
 
 ## Proyectos
 
-### 🧗 [Bloque — Landing page de gimnasio]0(https://bloque-landing-page-de-gimnasio-de.vercel.app/)
+### 🧗 [Bloque — Landing page de gimnasio](https://bloque-landing-page-de-gimnasio-de.vercel.app/)
 Landing responsiva con menú móvil funcional, planes de precios y formulario con validación en tiempo real por campo.
 `HTML` `CSS` `JavaScript` — [Ver demo](https://bloque-landing-page-de-gimnasio-de.vercel.app/) · [Código](https://github.com/Nsaavedra0523/Bloque-Landing-Page-de-Gimnasio-de-Escalada/tree/main)
 
