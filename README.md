@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola, soy Tu Nombre 👋
+# Hola, Nicolas Santiago Saavedra 👋
 ### Desarrollador Frontend Jr.
 
 Construyo interfaces claras, rápidas y bien pensadas con HTML, CSS y JavaScript.
@@ -15,7 +15,7 @@ Construyo interfaces claras, rápidas y bien pensadas con HTML, CSS y JavaScript
 
 ## Sobre mí
 
-Soy desarrollador frontend en formación, enfocado en escribir código limpio y construir interfaces que funcionen bien en cualquier pantalla. Vengo de **[tu formación o carrera]** y llevo **[tiempo]** aprendiendo a través de proyectos propios.
+Soy desarrollador frontend en formación, enfocado en escribir código limpio y construir interfaces que funcionen bien en cualquier pantalla. Soy Ingeniero de Sistemas y llevo 1 año aprendiendo a través de proyectos propios.
 
 Me interesa entender el porqué detrás de cada decisión de interfaz, no solo copiar patrones. Actualmente busco mi primera oportunidad como **desarrollador frontend junior**.
 
@@ -46,8 +46,8 @@ To-do list con persistencia en localStorage, filtros por estado y edición en l�
 
 ## Contacto
 
-📧 [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
-🔗 [GitHub](#) · [LinkedIn](#) · [CV (PDF)](#)
+📧 [nsaavedra0523@gmail.com](nsaavedra0523@gmail.com)
+🔗 [GitHub](#) · [LinkedIn](#)
 
 ---
 
