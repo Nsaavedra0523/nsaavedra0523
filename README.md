@@ -68,17 +68,22 @@
 
 ## 🌐 *Redes y contacto*
 <div align="center">
-      <p>
-            <a href="https://www.linkedin.com/in/tu-usuario/" target="_blank">
-                  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-                        alt="linkedin" height="30" width="40" /> </a>
-            <a href="mailto:tu-email@ejemplo.com" target="_blank">
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gmail/gmail-original.svg"
-                        alt="email" height="30" width="30" /> </a>
-            <a href="https://github.com/tu-usuario" target="_blank">
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"
-                        alt="github" height="30" width="30" /> </a>
-      </p>
+        <p>
+            <a href="https://www.instagram.com/dg2c4/" target="blank">
+                  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+                        alt="dg2c4" height="30" width="40" /> </a>
+            <a href="https://www.discordapp.com/users/daid2904" target="blank">
+                  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+                        alt="dg2c4" height="30" width="40" /> </a>
+            <a href="https://www.linkedin.com/in/dg2c4/" target="blank">
+                  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+                        alt=dg2c4" height="30" width="40" /> </a>   
+            <a href="https://stackoverflow.com/users/22633162/dg2c4" target="blank">
+                  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" 
+                        alt="dg2c4" height="30" width="40" /> </a>
+            <a href="https://twitter.com/dg2c4" target="blank">
+                  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
+                        alt="dg2c4" height="30" width="40" /> </a>
+        </p>
 </div>
-
 <p align="center"><sub>Última actualización: 2026</sub></p>
