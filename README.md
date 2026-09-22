@@ -56,14 +56,14 @@
 
 | Proyecto | Descripción | Demo | Código |
 |---|---|---|---|
-| 🧗 **Bloque — Landing page** | Landing responsiva con formulario validado y menú móvil | [Ver](https://claude.ai/artifact/TjFe2NC9bifn85V7DcXaxN) | [Repo](#) |
-| 🌤️ **App del clima** | Consumo de API con manejo de carga y error | [Ver](https://claude.ai/artifact/5Ue7mEByvFVmZWpwT4QB9c) | [Repo](#) |
-| ✅ **Lista de tareas** | CRUD con persistencia en localStorage | [Ver](https://claude.ai/artifact/UWirjdMUCf75aFbyyKaeg9) | [Repo](#) |
+| 🧗 **Bloque — Landing page** | Landing responsiva con formulario validado y menú móvil | [Ver](https://bloque-landing-page-de-gimnasio-de.vercel.app/) | [Repo](https://github.com/Nsaavedra0523/Bloque-Landing-Page-de-Gimnasio-de-Escalada) |
+| 🌤️ **App del clima** | Consumo de API con manejo de carga y error | [Ver](https://app-del-clima-beta.vercel.app/) | [Repo](https://github.com/Nsaavedra0523/App-del-Clima) |
+| ✅ **Lista de tareas** | CRUD con persistencia en localStorage | [Ver](https://lista-de-tareas-puce-kappa.vercel.app/) | [Repo](https://github.com/Nsaavedra0523/Lista-de-Tareas) |
 
 ## 📊 *Estadísticas de GitHub*
 <div align="center">
-      <img height="165" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=default" />
-      <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact" />
+      <img height="165" src="https://github-readme-stats.vercel.app/api?username=nsaavedra0523&show_icons=true&theme=default" />
+      <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsaavedra0523&layout=compact" />
 </div>
 
 ## 🌐 *Redes y contacto*
