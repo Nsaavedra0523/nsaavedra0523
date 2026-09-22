@@ -60,12 +60,6 @@
 | 🌤️ **App del clima** | Consumo de API con manejo de carga y error | [Ver](https://app-del-clima-beta.vercel.app/) | [Repo](https://github.com/Nsaavedra0523/App-del-Clima) |
 | ✅ **Lista de tareas** | CRUD con persistencia en localStorage | [Ver](https://lista-de-tareas-puce-kappa.vercel.app/) | [Repo](https://github.com/Nsaavedra0523/Lista-de-Tareas) |
 
-## 📊 *Estadísticas de GitHub*
-<div align="center">
-      <img height="165" src="https://githubreadmestatsfast.vercel.app/api?username=nsaavedra0523&show_icons=true&theme=default" />
-      <img height="165" src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=nsaavedra0523&layout=compact" />
-</div>
-
 ## 🌐 *Redes y contacto*
 <div align="center">
         <p>
