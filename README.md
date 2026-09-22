@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Tu Nombre
+# ¡Hola! 👋 Nicolas Santiago Saavedra Arciniegas
 
 <!-- Banner opcional: sube tu propia imagen al repo y reemplaza la URL de abajo, o borra este bloque si no quieres banner -->
 <!--
@@ -69,21 +69,15 @@
 ## 🌐 *Redes y contacto*
 <div align="center">
         <p>
-            <a href="https://www.instagram.com/dg2c4/" target="blank">
+            <a href="https://www.instagram.com/nsaavedra0523/" target="blank">
                   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-                        alt="dg2c4" height="30" width="40" /> </a>
-            <a href="https://www.discordapp.com/users/daid2904" target="blank">
+                        alt="nsaavedra0523" height="30" width="40" /> </a>
+            <a href="https://www.discordapp.com/users/Nicoximus0523" target="blank">
                   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-                        alt="dg2c4" height="30" width="40" /> </a>
-            <a href="https://www.linkedin.com/in/dg2c4/" target="blank">
-                  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-                        alt=dg2c4" height="30" width="40" /> </a>   
-            <a href="https://stackoverflow.com/users/22633162/dg2c4" target="blank">
-                  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" 
-                        alt="dg2c4" height="30" width="40" /> </a>
-            <a href="https://twitter.com/dg2c4" target="blank">
-                  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
-                        alt="dg2c4" height="30" width="40" /> </a>
+                        alt="nsaavedra0523" height="30" width="40" /> </a>
+            <a href="https://www.linkedin.com/in/nicolas-santiago-saavedra-arciniegas/">
+                  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg"
+                        alt="Nicolas Santiago Saavedra Arciniegas" height="30" width="40" /> </a>
         </p>
 </div>
 <p align="center"><sub>Última actualización: 2026</sub></p>
